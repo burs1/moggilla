@@ -1,0 +1,12 @@
+name = "Moggilla"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8d57045f66cb3701009be1963280e9da257373076dfaa4c348c888dc1557fe3a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.249"

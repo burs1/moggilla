@@ -1,0 +1,13 @@
+name = "BleedOut(Revive system)"
+filename = "bleedout-1.2.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HJPOga5M/versions/d2NOpTtM/bleedout-1.2.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "3708511da3e2cd9fa13ca89fb6b00684e2eba65926b64b1818c63c792ab721e0"
+
+[update]
+[update.modrinth]
+mod-id = "HJPOga5M"
+version = "d2NOpTtM"
