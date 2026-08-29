@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".gitlab-ci.yml"
+hash = "1f47e1a64196331b114a07a0e7c0340af40c05ce20e60f9740c2232492039884"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "4cdcad97eca57859971e4443d73bfdd3c1a9c978f5df22e985fe86b5ab063ffd"
 
@@ -450,6 +454,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "308bb5e7efbb5e4aa021f74c42a502f70760536b0ea2a5fdb6a2b0ad663e5323"
+metafile = true
+
+[[files]]
+file = "mods/autohud.pw.toml"
+hash = "d05032ebf4a658ab7923ee3404c06a54527fbfda79c3edd032f9d233909a8184"
 metafile = true
 
 [[files]]

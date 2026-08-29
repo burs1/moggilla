@@ -1,0 +1,26 @@
+stages:
+  - release
+
+workflow:
+  rules:
+    - if: $CI_COMMIT_TAG
+
+release:
+  stage: release
+  image: golang:latest
+  script:
+    - |
+      set -e
+      apt-get update && apt-get install -y --no-install-recommends ca-certificates curl
+      go install github.com/packwiz/packwiz@latest
+      export PATH="$(go env GOPATH)/bin:$PATH"
+      rm -f ./*.mrpack
+      packwiz modrinth export -y
+      MRPACK=$(ls *.mrpack)
+      test -n "$MRPACK"
+      curl --fail --header "JOB-TOKEN: $CI_JOB_TOKEN" --upload-file "$MRPACK" "$CI_API_V4_URL/projects/$CI_PROJECT_ID/packages/generic/Moggilla/$CI_COMMIT_TAG/$MRPACK"
+      curl --fail --header "JOB-TOKEN: $CI_JOB_TOKEN" --header "Content-Type: application/json" --data-binary "{\"name\":\"Moggilla $CI_COMMIT_TAG\",\"tag_name\":\"$CI_COMMIT_TAG\",\"description\":\"Moggilla modpack for Minecraft 1.21.1 (NeoForge).\\n\\nInstall with any Modrinth-compatible launcher.\",\"assets\":{\"links\":[{\"name\":\"$MRPACK\",\"url\":\"$CI_API_V4_URL/projects/$CI_PROJECT_ID/packages/generic/Moggilla/$CI_COMMIT_TAG/$MRPACK\",\"link_type\":\"package\"}]}}" "$CI_API_V4_URL/projects/$CI_PROJECT_ID/releases"
+  artifacts:
+    paths:
+      - "*.mrpack"
+    expire_in: 6 months
