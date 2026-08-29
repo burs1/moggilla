@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+if ! command -v packwiz >/dev/null 2>&1; then
+  echo "pre-commit: packwiz not found in PATH; skipping pack index refresh" >&2
+  exit 0
+fi
+
+packwiz refresh -y >/dev/null
+
+if [ -n "$(git status --porcelain -- index.toml pack.toml)" ]; then
+  git add index.toml pack.toml
+  echo "pre-commit: refreshed packwiz index (staged index.toml, pack.toml)"
+fi
+
+UNTRACKED=$(git ls-files --others --exclude-standard -- mods config resourcepacks shaderpacks)
+if [ -n "$UNTRACKED" ]; then
+  echo "pre-commit: note: untracked pack files were not staged by this hook:"
+  echo "$UNTRACKED" | sed 's/^/  /'
+fi

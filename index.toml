@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".githooks/pre-commit"
+hash = "39616569cdbf42ef5f080efdcfa1cf1276357a34e2c8a5dc672ea7ee74ed0081"
+
+[[files]]
 file = ".gitlab-ci.yml"
 hash = "1f47e1a64196331b114a07a0e7c0340af40c05ce20e60f9740c2232492039884"
 
@@ -844,6 +848,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d0ad6ae032766815daeb9d5db6605a7fb90eecc3a066845f1b5836f006002aed"
+metafile = true
+
+[[files]]
+file = "mods/ziplines-rezipped.pw.toml"
+hash = "1c6f7e31d1d6935ebe1ea651181b369c6708e8670ece825cf0f8c616b6b666b8"
 metafile = true
 
 [[files]]
