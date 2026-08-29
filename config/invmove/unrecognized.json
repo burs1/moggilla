@@ -1,0 +1,6 @@
+{
+  "allowMovement": {
+    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true
+  },
+  "hideBackground": {}
+}
