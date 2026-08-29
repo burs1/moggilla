@@ -1112,11 +1112,6 @@ hash = "f74b4cf5a648f3b55d0319a559d2264f8bc34b8d760c8a60850e32ed2ab6da4d"
 metafile = true
 
 [[files]]
-file = "mods/camerapture.pw.toml"
-hash = "a5202c7c26a0de8a614c52bdfdc61b540b7a6b4dbad4a7497480aea03fcf65ac"
-metafile = true
-
-[[files]]
 file = "mods/cgs.pw.toml"
 hash = "7c62e8adfc7c5d537e38eb032026d037c38c53bee92b18f0e14930e8e298e0df"
 metafile = true
