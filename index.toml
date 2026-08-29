@@ -370,11 +370,11 @@ hash = "7db0f52b6068154e92b7685dd1b3ec2a754bfeb2a523af3eccbc9840dbfe9d6e"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "d1c7e957d11416276ab563a801231914a77f83f6ce62d3b3502f736b8e0395bd"
+hash = "09db7d29d6ade802d12a3d19d886929a7e21bdfde4ffc4826d07e2f7c3ddae70"
 
 [[files]]
 file = "config/terrain_slabs.json"
-hash = "e04586d7dc58c806eb2d71eff53458bc56fe8e5d88675a710783bab85124fee3"
+hash = "91683595865557b8abfae1d8d7f957f50d9af49a577ef9cb7cb691c505a3754c"
 
 [[files]]
 file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
@@ -453,6 +453,11 @@ hash = "308bb5e7efbb5e4aa021f74c42a502f70760536b0ea2a5fdb6a2b0ad663e5323"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "cc2e6dda94a7a6f5487843cafe569d8044bf9482cbf03f062cf4595f1fb05281"
+metafile = true
+
+[[files]]
 file = "mods/bleedout.pw.toml"
 hash = "83dbbab867703aa70e4c7445d4dadb0ebffd4a33c65ddbe176f52b930aef86ca"
 metafile = true
@@ -460,6 +465,11 @@ metafile = true
 [[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "5b3882dcd44f2b6f4b63afd59a7e768d8e7aa5cf5533e328e6847e9a0bac53c6"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
 metafile = true
 
 [[files]]
@@ -490,6 +500,11 @@ metafile = true
 [[files]]
 file = "mods/cool-rain-reforged.pw.toml"
 hash = "391cad6d757c2502b501b3462fce4e000f98e1f0fbd0569ebff67650b55abcac"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
@@ -688,8 +703,18 @@ hash = "b1a7dd16814a8f3e4f04f3a3560a7f1ef455aad36d9dbcd8f18583d923b97ed7"
 metafile = true
 
 [[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "650330109d21831664d2ff597c7a90200eda69a1efaca4e9b0b6b6297ac3c364"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "5bab8b80cca422e923206b9e8cb031b1c08d86a637f515d3699ef3d6f79485b8"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
 
 [[files]]
@@ -753,8 +778,18 @@ hash = "96bdd9ca87fb767280e37762fd0afcee47f3c7df0ffcdf06d767edf6ea84ea6a"
 metafile = true
 
 [[files]]
+file = "mods/talkingheads.pw.toml"
+hash = "f15a25306ed1fcc9722f5b5ff9cbe0516609ef7ddb77460e5e866a864f386353"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "5f603670b642713056bba5b10342171bcc2f35cc76e5d667514c352c08983efe"
+metafile = true
+
+[[files]]
+file = "mods/terralith-restoned.pw.toml"
+hash = "abde622f6570b0b4c5ba50c6f329c174d3f8f82de3cd29523c0064b0f9d9987c"
 metafile = true
 
 [[files]]
@@ -768,13 +803,38 @@ hash = "03d42edad3b98093e5f8b6b897c5f527e66164ed09ca78af34c239cff28a1067"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "4398168a909e09678735daf7feef13ff40665c0feea84a4cfdd3863526b4bf36"
 metafile = true
 
 [[files]]
+file = "mods/universal-bone-meal.pw.toml"
+hash = "36451170388b68c89ba69f5f2bd4fd283d1811a3d9b5e31281a424f9ca6f61a7"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "b7aeed923fff2aecbde3e13940f7a55e82dae6ad3612e3b6e4a307ba4f6aa880"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d0ad6ae032766815daeb9d5db6605a7fb90eecc3a066845f1b5836f006002aed"
 metafile = true
 
 [[files]]

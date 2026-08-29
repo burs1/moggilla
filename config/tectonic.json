@@ -23,7 +23,7 @@
     // The narrow, claustrophobic noodle-shaped caves.
     "noodle_enabled": true,
     // Alters ore generation to generate at more acceptable levels when min_y is lowered.
-    "ore_fix": false,
+    "ore_fix": true,
     // The tunneling, medium sized spaghetti-shaped caves.
     "spaghetti_enabled": true
   },
