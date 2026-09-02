@@ -1098,11 +1098,6 @@ hash = "cc2e6dda94a7a6f5487843cafe569d8044bf9482cbf03f062cf4595f1fb05281"
 metafile = true
 
 [[files]]
-file = "mods/betterdays.pw.toml"
-hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
-metafile = true
-
-[[files]]
 file = "mods/bleedout.pw.toml"
 hash = "83dbbab867703aa70e4c7445d4dadb0ebffd4a33c65ddbe176f52b930aef86ca"
 metafile = true
