@@ -1168,16 +1168,6 @@ hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
-file = "mods/cosy-critters.pw.toml"
-hash = "b3035edda00323cd2439177ee1e8df738a9ceae12428a4fc7233293269323672"
-metafile = true
-
-[[files]]
-file = "mods/countereds-terrain-slabs.pw.toml"
-hash = "250c4dabf236a82fcd9739d334e46fb70b6aac9524467f43bcd68794934ffa67"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "ebc2770d0e388b76586fcc01b132385549b72099b630b78a7b9f5cd6f6ca7a3e"
 metafile = true
@@ -1520,11 +1510,6 @@ metafile = true
 [[files]]
 file = "mods/talkingheads.pw.toml"
 hash = "f15a25306ed1fcc9722f5b5ff9cbe0516609ef7ddb77460e5e866a864f386353"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "5f603670b642713056bba5b10342171bcc2f35cc76e5d667514c352c08983efe"
 metafile = true
 
 [[files]]
