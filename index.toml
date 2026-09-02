@@ -1049,6 +1049,10 @@ file = "config/zipline.json"
 hash = "91ed15c2784fe68d2758ab21cf769fd4ff52c0c823e098b38464adce6362ae6b"
 
 [[files]]
+file = "config/zombieapocalypseaddon-common.toml"
+hash = "60328e53396b15e2cd38886122de0631918b89f668fd51445c86a03b4285e1fb"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "414f41b542f2b5677d403dcd5f930dc962980de9311421238b8ec1367eb3f8e1"
 metafile = true
