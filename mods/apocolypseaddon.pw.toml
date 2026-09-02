@@ -1,0 +1,13 @@
+name = "Zombie Apocalypse Addon"
+filename = "zombieapocalypseaddon-2.2.37.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gH2XNhDh/versions/BHFMJ6AR/zombieapocalypseaddon-2.2.37.jar"
+hash-format = "sha512"
+hash = "61120342b2b6c9ad510397e2cd4b21e395dfc4d1b8186808c44bb2dfb24e342dc14b05c7263520080e4fdc699096d1e2cfea1b5b5c88b740d61b49e6672332d3"
+
+[update]
+[update.modrinth]
+mod-id = "gH2XNhDh"
+version = "BHFMJ6AR"

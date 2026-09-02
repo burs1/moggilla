@@ -937,10 +937,6 @@ file = "config/talkingheads.json5"
 hash = "adb53d5f498b147204215f9d7f65f45ade3d5c037528ad8c80f3049f1f579a12"
 
 [[files]]
-file = "config/tectonic.json"
-hash = "4bde4eb1a5e851900e136bf4bf9766b6790143a876ff58c940676658b36481dd"
-
-[[files]]
 file = "config/terrain_slabs.json"
 hash = "91683595865557b8abfae1d8d7f957f50d9af49a577ef9cb7cb691c505a3754c"
 
@@ -1053,12 +1049,18 @@ file = "config/zipline.json"
 hash = "91ed15c2784fe68d2758ab21cf769fd4ff52c0c823e098b38464adce6362ae6b"
 
 [[files]]
-file = "config/zombieapocalypseaddon-common.toml"
-hash = "9d9d0bfdeb020973c97e1366b9387526fe2988e24392f878fac2be8c44564353"
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "414f41b542f2b5677d403dcd5f930dc962980de9311421238b8ec1367eb3f8e1"
+metafile = true
+
+[[files]]
+file = "mods/aero_cam_sync.pw.toml"
+hash = "05d7fc1975485e44ed23c67f33d4f691523da2bacef29464f04433154929e6f8"
+metafile = true
+
+[[files]]
+file = "mods/apocolypseaddon.pw.toml"
+hash = "a2e1e534314e902ec9219cdded16f2895a00ee41b506722b7f74f0aff2235d21"
 metafile = true
 
 [[files]]
@@ -1074,6 +1076,11 @@ metafile = true
 [[files]]
 file = "mods/autohud.pw.toml"
 hash = "d05032ebf4a658ab7923ee3404c06a54527fbfda79c3edd032f9d233909a8184"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
 metafile = true
 
 [[files]]
@@ -1127,8 +1134,18 @@ hash = "80d7af83c244304212b8d95ab2e3525b3eeae02f31e41474c2cdec2f4d370723"
 metafile = true
 
 [[files]]
+file = "mods/clientsort.pw.toml"
+hash = "4c7670f817a84857c1021d53d350edf8c68468c88272a7dc9c18d02669d47b51"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/cobweb.pw.toml"
+hash = "23f681379a3e647a59f0749d25f2ce0725d4afafeed41871c5c87f2658d13a72"
 metafile = true
 
 [[files]]
@@ -1177,6 +1194,11 @@ hash = "2f4d3b72d3be990fd3c8a5707f0d35b37baaa5891fd6ceea22a800b93f8ba1fa"
 metafile = true
 
 [[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "a9b9623c952949837c1c6827b94b5969241c44825483a901cad12fcda12d40e9"
+metafile = true
+
+[[files]]
 file = "mods/delight-lib.pw.toml"
 hash = "c4fb5bf78ad912a20ff50767f4e5cb64fd84f04d58db0c79bc728b643acc4038"
 metafile = true
@@ -1199,6 +1221,11 @@ metafile = true
 [[files]]
 file = "mods/dynamictreesplus.pw.toml"
 hash = "d86b20c02dd745a1478da944bb10c6167e90b905cd2b9ce331ce86d11026600a"
+metafile = true
+
+[[files]]
+file = "mods/easegui.pw.toml"
+hash = "77c111dee13dec01464e21c3ee17008f2076aa9311b39fb7d349f3cfa6632d87"
 metafile = true
 
 [[files]]
@@ -1264,6 +1291,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "188c480f018292b665787bcc20c6a0cd14948a7d462c7172a9ce5897215a5c8c"
+metafile = true
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "a8c6a45895b59f2a00c108a5247de7eb15083a0bd835ed10c850ca22f81504ba"
 metafile = true
 
 [[files]]
@@ -1492,6 +1524,11 @@ hash = "eb89755437f59d6af634f260d613cb3773b306992a601239a8fb5a2da9cee97c"
 metafile = true
 
 [[files]]
+file = "mods/ssrd.pw.toml"
+hash = "67eabcc7dbc9c93130dc3f6d689808ee97d4a92fb4ee27c7675c12cc87a2131e"
+metafile = true
+
+[[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "96bdd9ca87fb767280e37762fd0afcee47f3c7df0ffcdf06d767edf6ea84ea6a"
 metafile = true
@@ -1574,6 +1611,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "610e5e08a034d7fdda17d17f37853c1abf19f94425e0a831ced52fccb6ccb063"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "2e1a6866e4366cebe200dcf71ab52923b7653f76dc48741b93411ee3bf77372a"
 metafile = true
 
 [[files]]
