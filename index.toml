@@ -1213,21 +1213,6 @@ hash = "22497f91d2367649b647f5ec02ce264539cd7fac102893d8515233925d6d406e"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-terralith.pw.toml"
-hash = "26608421930fb8bf71c169faa2780b04946d9a9cfe65e714c64a8c3bb731b5aa"
-metafile = true
-
-[[files]]
-file = "mods/dynamictrees.pw.toml"
-hash = "cb479d64e7cfae435e313dd153f59cc56f000b01d0ea664468b3b7699c963260"
-metafile = true
-
-[[files]]
-file = "mods/dynamictreesplus.pw.toml"
-hash = "d86b20c02dd745a1478da944bb10c6167e90b905cd2b9ce331ce86d11026600a"
-metafile = true
-
-[[files]]
 file = "mods/easegui.pw.toml"
 hash = "77c111dee13dec01464e21c3ee17008f2076aa9311b39fb7d349f3cfa6632d87"
 metafile = true
@@ -1395,11 +1380,6 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "e11bedbfca44d06378553db5714e6f7536a6db44f474fa89c2f7d86d42dfda13"
-metafile = true
-
-[[files]]
-file = "mods/naturalist.pw.toml"
-hash = "398b6b94cf062416480b6ef3af25e15f30594a680079a9ed3a32236c110245d2"
 metafile = true
 
 [[files]]
