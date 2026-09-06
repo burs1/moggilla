@@ -1210,11 +1210,6 @@ hash = "23f681379a3e647a59f0749d25f2ce0725d4afafeed41871c5c87f2658d13a72"
 metafile = true
 
 [[files]]
-file = "mods/connector.pw.toml"
-hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
-metafile = true
-
-[[files]]
 file = "mods/cool-rain-reforged.pw.toml"
 hash = "391cad6d757c2502b501b3462fce4e000f98e1f0fbd0569ebff67650b55abcac"
 metafile = true
