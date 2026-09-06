@@ -1102,7 +1102,7 @@ hash = "91ed15c2784fe68d2758ab21cf769fd4ff52c0c823e098b38464adce6362ae6b"
 
 [[files]]
 file = "config/zombieapocalypseaddon-common.toml"
-hash = "bf5ea05fc2930bdefde0e1b89f5e3aa039c11add19f093a01aff3c18fc93b3bc"
+hash = "35140832e4e6e0e0faa0601b5b03d1b0c402ba4ef2dac0a33397bb04362ed3ce"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -1650,11 +1650,6 @@ hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
 metafile = true
 
 [[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
-metafile = true
-
-[[files]]
 file = "mods/windy.pw.toml"
 hash = "487e2b84df68ee58c6ed681a709454dc518af310c143565e496d796c9300769b"
 metafile = true
@@ -1667,11 +1662,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d0ad6ae032766815daeb9d5db6605a7fb90eecc3a066845f1b5836f006002aed"
-metafile = true
-
-[[files]]
-file = "mods/ziplines-rezipped.pw.toml"
-hash = "1c6f7e31d1d6935ebe1ea651181b369c6708e8670ece825cf0f8c616b6b666b8"
 metafile = true
 
 [[files]]

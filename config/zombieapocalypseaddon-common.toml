@@ -116,7 +116,7 @@
 	#Beginner: 30-60 is usually sane. Raising this above 100 is for stronger servers.
 	# Default: 50
 	# Range: 1 ~ 500
-	maxDayZombiesPerPlayer = 50
+	maxDayZombiesPerPlayer = 20
 	#How many mobs the mod tries to place in each successful wave.
 	#The real number can be lower if it cannot find enough valid spawn spots.
 	#High values feel like mini-hordes and can spike lag if many players are online.
@@ -135,7 +135,7 @@
 	#Example: range 30 supports at most about 42 blocks diagonally. A larger minimum pauses custom spawning.
 	# Default: 12
 	# Range: 8 ~ 64
-	minSpawnDistance = 64
+	minSpawnDistance = 48
 	#How many location tries the mod makes for each mob in a wave.
 	#Higher values help waves fill more reliably, but they also use more CPU time.
 	#Beginner: 5-15 is normal. Do not max this out unless spawn placement is failing badly.
