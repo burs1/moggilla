@@ -1078,11 +1078,6 @@ hash = "308bb5e7efbb5e4aa021f74c42a502f70760536b0ea2a5fdb6a2b0ad663e5323"
 metafile = true
 
 [[files]]
-file = "mods/autohud.pw.toml"
-hash = "d05032ebf4a658ab7923ee3404c06a54527fbfda79c3edd032f9d233909a8184"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
 metafile = true
@@ -1098,6 +1093,16 @@ hash = "cc2e6dda94a7a6f5487843cafe569d8044bf9482cbf03f062cf4595f1fb05281"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
+metafile = true
+
+[[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "2cfa9768cc635d7ec8cbc0172e62db5ad0fc79117b927344d7f2484b78ebd7b7"
+metafile = true
+
+[[files]]
 file = "mods/bleedout.pw.toml"
 hash = "83dbbab867703aa70e4c7445d4dadb0ebffd4a33c65ddbe176f52b930aef86ca"
 metafile = true
@@ -1105,6 +1110,11 @@ metafile = true
 [[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "5b3882dcd44f2b6f4b63afd59a7e768d8e7aa5cf5533e328e6847e9a0bac53c6"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
@@ -1173,8 +1183,13 @@ hash = "c675fe9b36a86f29039dcc28e871b9d474946039aa1f6623fa4715bff3909ba9"
 metafile = true
 
 [[files]]
+file = "mods/create-ornithopter-glider.pw.toml"
+hash = "fd02bd7d57513de6a022d6fdc27ef63a64f6fc7342a030338b8918b1b697b7f0"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "ae58680e82dafccb81691e8daafcf64fcab64c263e5fed4e86ba67f32adc8707"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -1193,6 +1208,11 @@ hash = "c4fb5bf78ad912a20ff50767f4e5cb64fd84f04d58db0c79bc728b643acc4038"
 metafile = true
 
 [[files]]
+file = "mods/detail-armor-bar-reconstructed.pw.toml"
+hash = "5e56de4d2f91b883ce8592d324a6e3facacdfe50b880efd0caf8acc242f97bc7"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "22497f91d2367649b647f5ec02ce264539cd7fac102893d8515233925d6d406e"
 metafile = true
@@ -1200,6 +1220,11 @@ metafile = true
 [[files]]
 file = "mods/easegui.pw.toml"
 hash = "77c111dee13dec01464e21c3ee17008f2076aa9311b39fb7d349f3cfa6632d87"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "88b9e727611f06350c407aeb4ccb41207b5058fef127abe0ff24c13505618aaf"
 metafile = true
 
 [[files]]
@@ -1228,6 +1253,11 @@ hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
 metafile = true
 
 [[files]]
+file = "mods/faewulfslib.pw.toml"
+hash = "214ffa6e2d5c4665f30646492f58d2fcd3abd6e896ef8918a4b3d99a212acd53"
+metafile = true
+
+[[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
 metafile = true
@@ -1240,6 +1270,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fe4578b7f4a8c09f5e672a139c5fe89262e6c4728d82c5a22515120c83e3eb08"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "4188848019233432861e98a5cc72aebed8c68a8a0909007967ab11827f8a6508"
 metafile = true
 
 [[files]]
@@ -1368,6 +1403,16 @@ hash = "e11bedbfca44d06378553db5714e6f7536a6db44f474fa89c2f7d86d42dfda13"
 metafile = true
 
 [[files]]
+file = "mods/no-elytras.pw.toml"
+hash = "8597860a782703793c14fd2c1c13a16b37f069b1b20fc3a0f5b624c6eda1b90c"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
+metafile = true
+
+[[files]]
 file = "mods/ntgl.pw.toml"
 hash = "edfd2d75ce7cc8ef766d30bd1de92162dfd7f2ec7bfcf0d79aba85f3d8b2793a"
 metafile = true
@@ -1403,6 +1448,11 @@ hash = "b1a7dd16814a8f3e4f04f3a3560a7f1ef455aad36d9dbcd8f18583d923b97ed7"
 metafile = true
 
 [[files]]
+file = "mods/piggyback.pw.toml"
+hash = "4c460ee8a3e733866449445daca85d539711752fdc4e6aa2205ff17785625250"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "650330109d21831664d2ff597c7a90200eda69a1efaca4e9b0b6b6297ac3c364"
 metafile = true
@@ -1410,6 +1460,11 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "5bab8b80cca422e923206b9e8cb031b1c08d86a637f515d3699ef3d6f79485b8"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
 
 [[files]]
@@ -1450,6 +1505,11 @@ metafile = true
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
 hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
 metafile = true
 
 [[files]]
@@ -1520,11 +1580,6 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "03d42edad3b98093e5f8b6b897c5f527e66164ed09ca78af34c239cff28a1067"
-metafile = true
-
-[[files]]
-file = "mods/travelers-titles.pw.toml"
-hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
 metafile = true
 
 [[files]]
