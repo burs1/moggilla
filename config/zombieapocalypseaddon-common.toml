@@ -104,7 +104,7 @@
 	#Lower numbers mean more checks and more CPU use. 20 or lower is very aggressive.
 	# Default: 120
 	# Range: 1 ~ 72000
-	daySpawnInterval = 120
+	daySpawnInterval = 300
 	#Chance that each spawn check turns into a real wave.
 	#0.0 = never spawn, 1.0 = every check spawns a wave.
 	#High chance plus a low interval can flood an area quickly.
@@ -135,7 +135,7 @@
 	#Example: range 30 supports at most about 42 blocks diagonally. A larger minimum pauses custom spawning.
 	# Default: 12
 	# Range: 8 ~ 64
-	minSpawnDistance = 12
+	minSpawnDistance = 64
 	#How many location tries the mod makes for each mob in a wave.
 	#Higher values help waves fill more reliably, but they also use more CPU time.
 	#Beginner: 5-15 is normal. Do not max this out unless spawn placement is failing badly.
