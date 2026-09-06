@@ -1325,6 +1325,11 @@ hash = "fe4578b7f4a8c09f5e672a139c5fe89262e6c4728d82c5a22515120c83e3eb08"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "c490f7b680875f034af39a1556911d6edb1dcdd76a114ee6a4eca0f158cd92b2"
+metafile = true
+
+[[files]]
 file = "mods/fruits-delight.pw.toml"
 hash = "bd54b25ed6127a176979f89d56ebee73856ff5023c575232ee707571fcdb2c1c"
 metafile = true
@@ -1377,6 +1382,11 @@ metafile = true
 [[files]]
 file = "mods/it-takes-a-pillage-continuation.pw.toml"
 hash = "91e9f7130e9f833869f28382fa179df9abedff6518a0b86ed904f991293b18f4"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3c513e51d7c76336af827569fb3107417b77d75dd6da9485a88ed5715bdc3647"
 metafile = true
 
 [[files]]
