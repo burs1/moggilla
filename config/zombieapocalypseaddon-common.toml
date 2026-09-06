@@ -116,7 +116,7 @@
 	#Beginner: 30-60 is usually sane. Raising this above 100 is for stronger servers.
 	# Default: 50
 	# Range: 1 ~ 500
-	maxDayZombiesPerPlayer = 20
+	maxDayZombiesPerPlayer = 10
 	#How many mobs the mod tries to place in each successful wave.
 	#The real number can be lower if it cannot find enough valid spawn spots.
 	#High values feel like mini-hordes and can spike lag if many players are online.

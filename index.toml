@@ -842,7 +842,7 @@ hash = "77d9559a19f69d73f952177d2047760a9e55be219fee015658effaaa8783eb46"
 
 [[files]]
 file = "config/punchy/punchy_config.json"
-hash = "7351fab80edaa3c25111673abdf2985741647e796930af628db438e4335844cc"
+hash = "107c261aceb13b6f4d54b6a015bba701aefddb008cfe71c9e7871069f0337bc9"
 
 [[files]]
 file = "config/punchy/triggerable-keybindings.json"
@@ -1102,7 +1102,7 @@ hash = "91ed15c2784fe68d2758ab21cf769fd4ff52c0c823e098b38464adce6362ae6b"
 
 [[files]]
 file = "config/zombieapocalypseaddon-common.toml"
-hash = "35140832e4e6e0e0faa0601b5b03d1b0c402ba4ef2dac0a33397bb04362ed3ce"
+hash = "ef6e4f2aefaca1d3f7f5fc9f1f9124b7b8a3b2f3cf9a2889a43b8c392f162a80"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -1322,11 +1322,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fe4578b7f4a8c09f5e672a139c5fe89262e6c4728d82c5a22515120c83e3eb08"
-metafile = true
-
-[[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "4188848019233432861e98a5cc72aebed8c68a8a0909007967ab11827f8a6508"
 metafile = true
 
 [[files]]

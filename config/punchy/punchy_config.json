@@ -33,13 +33,29 @@
   "enableParticles": true,
   "enableModelPartsGlow": true,
   "enableBlurGlowAtDark": false,
-  "firstPersonModelHideEnabled": true,
+  "firstPersonModelHideEnabled": false,
   "firstPersonModelHidePitch": 60.0,
   "itemBlacklist": [
+    "cgs:shotgun",
+    "cgs:revolver",
+    "cgs:hammer",
+    "cgs:nailgun",
+    "cgs:frag_grenade",
+    "cgs:launcher",
+    "cgs:gatling",
+    "cgs:blazegun",
     "cgs:flintlock"
   ],
   "blacklistApplyDualHanded": {
-    "cgs:flintlock": false
+    "cgs:shotgun": false,
+    "cgs:revolver": false,
+    "cgs:hammer": false,
+    "cgs:nailgun": false,
+    "cgs:frag_grenade": false,
+    "cgs:launcher": true,
+    "cgs:gatling": true,
+    "cgs:blazegun": true,
+    "cgs:flintlock": true
   },
   "animationPackSelections": {},
   "animationPackTypeSelections": {},
