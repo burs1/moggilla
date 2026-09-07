@@ -36,6 +36,9 @@
   "firstPersonModelHideEnabled": false,
   "firstPersonModelHidePitch": 60.0,
   "itemBlacklist": [
+    "create:potato_cannon",
+    "create:extendo_grip",
+    "simulated:plunger_launcher",
     "cgs:shotgun",
     "cgs:revolver",
     "cgs:hammer",
@@ -47,6 +50,9 @@
     "cgs:flintlock"
   ],
   "blacklistApplyDualHanded": {
+    "create:potato_cannon": false,
+    "create:extendo_grip": false,
+    "simulated:plunger_launcher": false,
     "cgs:shotgun": false,
     "cgs:revolver": false,
     "cgs:hammer": false,

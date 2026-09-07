@@ -5,7 +5,7 @@
   "scaleX": 0.3,
   "scaleY": 0.3,
   "enableMod": true,
-  "usePlasmoVoice": true,
+  "usePlasmoVoice": false,
   "useSimpleVoiceChat": true,
   "removedVolume": 0.002
 }

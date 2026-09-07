@@ -30,9 +30,18 @@
     "dev.simulated_team.simulated.content.entities.diagram.screen.DiagramScreen": true,
     "dev.simulated_team.simulated.content.blocks.nameplate.NameplateScreen": true,
     "dev.tr7zw.trender.gui.client.AbstractConfigScreen$1": true,
-    "net.neoforged.neoforge.client.gui.ConfigurationScreen": true
+    "net.neoforged.neoforge.client.gui.ConfigurationScreen": true,
+    "de.maxhenkel.voicechat.gui.volume.AdjustVolumesScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "com.finchy.pipeorgans.content.midi.rollPuncher.RollPuncherScreen": true,
+    "com.finchy.pipeorgans.content.midi.keyboardRelay.KeyboardRelayScreen": true,
+    "dan200.computercraft.client.gui.TurtleScreen": true,
+    "dan200.computercraft.client.gui.ComputerScreen": true,
+    "com.codinglitch.simpleradio.client.core.registry.screens.RadiosmitherScreen": true
   },
   "hideBackground": {
-    "dev.simulated_team.simulated.content.blocks.nameplate.NameplateScreen": true
+    "dev.simulated_team.simulated.content.blocks.nameplate.NameplateScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
   }
 }
