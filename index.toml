@@ -1740,6 +1740,11 @@ hash = "5bab8b80cca422e923206b9e8cb031b1c08d86a637f515d3699ef3d6f79485b8"
 metafile = true
 
 [[files]]
+file = "mods/pretty-rain.pw.toml"
+hash = "8319748b7c1a39462d159ed94da5c972b99958628c776be8d7c1e4c48fdaa5eb"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
@@ -1845,6 +1850,11 @@ hash = "eb89755437f59d6af634f260d613cb3773b306992a601239a8fb5a2da9cee97c"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "03c32079e39cf21efb8d0b5f0d24f004b9221c1455d460fdcb621821f7285239"
+metafile = true
+
+[[files]]
 file = "mods/ssrd.pw.toml"
 hash = "67eabcc7dbc9c93130dc3f6d689808ee97d4a92fb4ee27c7675c12cc87a2131e"
 metafile = true
@@ -1887,6 +1897,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
+metafile = true
+
+[[files]]
+file = "mods/webcam-mod.pw.toml"
+hash = "bd7d0f75b1aa191a8161b16222733d9c0c7f9f6aa1856c8b9566ab9b29288710"
 metafile = true
 
 [[files]]

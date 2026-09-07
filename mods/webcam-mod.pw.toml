@@ -1,0 +1,13 @@
+name = "Webcam"
+filename = "webcam-neoforge-4.4.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KLTWlg59/versions/MihABZCt/webcam-neoforge-4.4.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "0d4fb4fe89895ff66dd886408a770fdfe7301073048e1be58c8a21a018cce73d12b4717116d421afea7c58f1695d8d69de75fa597f6716ed5cca621f425c43e1"
+
+[update]
+[update.modrinth]
+mod-id = "KLTWlg59"
+version = "MihABZCt"
