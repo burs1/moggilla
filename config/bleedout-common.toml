@@ -2,7 +2,7 @@
 #Время кровотечения в секундах перед смертью
 # Default: 45
 # Range: 1 ~ 300
-bleedoutTime = 45
+bleedoutTime = 30
 #Revival time in seconds (right-click on downed player)
 #Время возрождения в секундах (ПКМ по лежащему игроку)
 # Default: 5
@@ -33,7 +33,7 @@ initialDamageCooldown = 10
 disableMovementWhileBleeding = false
 #Make bleeding players ignored by mob targeting
 #Мобы игнорируют игроков во время кровотечения как цель
-bleedingPlayersIgnoredByMobs = false
+bleedingPlayersIgnoredByMobs = true
 #Effects applied while bleeding. Format: effect_id[:amplifier], amplifier starts at 0
 #Эффекты во время кровотечения. Формат: effect_id[:amplifier], уровень начинается с 0
 bleedingEffects = ["minecraft:slowness:1"]

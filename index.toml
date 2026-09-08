@@ -46,7 +46,7 @@ hash = "c51442520b7810f8fafa03b95c8d59ea9350127b5f5e59505b36a11c42fb2d3f"
 
 [[files]]
 file = "config/bleedout-common.toml"
-hash = "d8fa991c731f4796b209374d9f96740865812fb8bcbf3e3f1272b4136c152154"
+hash = "c5df1aacc02a6f654d294dd3bbd4aedc85e40e3f0afca9ccbc36c1a8acfa2d93"
 
 [[files]]
 file = "config/blur.json"
