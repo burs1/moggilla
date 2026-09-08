@@ -626,7 +626,7 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "config/zombieapocalypseaddon-common.toml"
-hash = "69bbdf835607cb1315b17d6b99b69d9cd89ddaf693b8f34fb91f10aed64a0d6f"
+hash = "1abcd811ca745355a8809fd077656ee3d5013d8f34fc4c867ffbfba97df2ed35"
 
 [[files]]
 file = "mods/accessories.pw.toml"

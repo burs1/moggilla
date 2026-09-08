@@ -520,7 +520,7 @@
 	enableEventNotifications = true
 	#Shows the current day on screen each morning as a title popup.
 	#Useful as a visible day counter for players without checking commands.
-	enableDayCounterAnnouncements = true
+	enableDayCounterAnnouncements = false
 
 # 
 #============================================================
