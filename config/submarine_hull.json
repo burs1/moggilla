@@ -217,70 +217,6 @@
     "maxWaterDepth": 25,
     "implosionChance": 0.85
   },
-  "computercraft:cable": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.835
-  },
-  "computercraft:computer_advanced": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "computercraft:computer_command": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "computercraft:computer_normal": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "computercraft:disk_drive": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "computercraft:lectern": {
-    "maxWaterDepth": 25,
-    "implosionChance": 0.85
-  },
-  "computercraft:monitor_advanced": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "computercraft:monitor_normal": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "computercraft:printer": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "computercraft:redstone_relay": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "computercraft:speaker": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "computercraft:turtle_advanced": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "computercraft:turtle_normal": {
-    "maxWaterDepth": 46,
-    "implosionChance": 0.725
-  },
-  "computercraft:wired_modem_full": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.835
-  },
-  "computercraft:wireless_modem_advanced": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "computercraft:wireless_modem_normal": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
   "create:acacia_window": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -5280,6 +5216,118 @@
   "createdieselgenerators:yellow_concrete_encased_fluid_pipe": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
+  },
+  "delightfulcreators:apple_cider_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:baked_cod_stew_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:beef_stew_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:beetroot_soup_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:bone_broth_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:chicken_soup_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:cooked_rice_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:dog_food_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:fish_stew_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:glow_berry_custard_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:hot_cocoa_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:mechanical_cutter": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "delightfulcreators:melon_juice_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:mushroom_stew_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:noodle_soup_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:pumpkin_soup_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:rabbit_stew_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:ratatouille_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:tomato_sauce_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "delightfulcreators:vegetable_soup_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "ends_delight:chorus_fruit_crate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "ends_delight:chorus_fruit_pie": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "ends_delight:chorus_succulent": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "ends_delight:dragon_leg_with_sauce_block": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "ends_delight:dragon_meat_stew_block": {
+    "maxWaterDepth": 92,
+    "implosionChance": 0.45
+  },
+  "ends_delight:end_stove": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "ends_delight:grilled_shulker_block": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "ends_delight:steamed_dragon_egg_block": {
+    "maxWaterDepth": 92,
+    "implosionChance": 0.45
   },
   "farmersdelight:acacia_cabinet": {
     "maxWaterDepth": 25,
@@ -10837,9 +10885,209 @@
     "maxWaterDepth": 18,
     "implosionChance": 0.85
   },
+  "mynethersdelight:blackstone_bricks_cabinet": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "mynethersdelight:blazier_block": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.835
+  },
+  "mynethersdelight:bread_loaf_block": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:bullet_pepper": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:bullet_pepper_crate": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "mynethersdelight:cold_striderloaf_block": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:crimson_fungus_colony": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:ghasta_with_cream_block": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:golden_trophy": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "mynethersdelight:hoglin_trophy": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "mynethersdelight:letios_compost": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:magma_cake_block": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:nether_bricks_cabinet": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.6666667
+  },
+  "mynethersdelight:nether_stove": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.6666667
+  },
+  "mynethersdelight:potted_bullet_pepper": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:potted_powdery_cannon": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:powdery_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "mynethersdelight:powdery_button": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:powdery_cabinet": {
+    "maxWaterDepth": 42,
+    "implosionChance": 0.75
+  },
+  "mynethersdelight:powdery_cane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:powdery_cannon": {
+    "maxWaterDepth": 211,
+    "implosionChance": 0.05
+  },
+  "mynethersdelight:powdery_chubby_sapling": {
+    "maxWaterDepth": 106,
+    "implosionChance": 0.36666667
+  },
+  "mynethersdelight:powdery_door": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "mynethersdelight:powdery_fence": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "mynethersdelight:powdery_fence_gate": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "mynethersdelight:powdery_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:powdery_mosaic": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "mynethersdelight:powdery_mosaic_slab": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "mynethersdelight:powdery_mosaic_stairs": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "mynethersdelight:powdery_planks": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "mynethersdelight:powdery_pressure_plate": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:powdery_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:powdery_slab": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "mynethersdelight:powdery_stairs": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "mynethersdelight:powdery_torch": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:powdery_trapdoor": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.7
+  },
+  "mynethersdelight:powdery_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:powdery_wall_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:red_nether_bricks_cabinet": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.6666667
+  },
+  "mynethersdelight:resurgent_soil": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:resurgent_soil_farmland": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:skoglin_trophy": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "mynethersdelight:striderloaf_block": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:stripped_powdery_block": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "mynethersdelight:stuffed_hoglin": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:wall_powdery_torch": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:warped_fungus_colony": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "mynethersdelight:waxed_hoglin_trophy": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "mynethersdelight:zoglin_trophy": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
   "ntgl:workbench": {
     "maxWaterDepth": 45,
     "implosionChance": 0.73
+  },
+  "oceansdelight:guardian_soup": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
   },
   "offroad:borehead_bearing": {
     "maxWaterDepth": 67,
@@ -10853,156 +11101,224 @@
     "maxWaterDepth": 55,
     "implosionChance": 0.67
   },
-  "pipeorgans:base": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
+  "rusticdelight:bell_pepper_black_block": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
   },
-  "pipeorgans:diapason": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "pipeorgans:diapason_extension": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "pipeorgans:english_horn": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "pipeorgans:english_horn_extension": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "pipeorgans:gamba": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "pipeorgans:gamba_extension": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "pipeorgans:gedeckt": {
+  "rusticdelight:bell_pepper_black_crate": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "pipeorgans:gedeckt_extension": {
+  "rusticdelight:bell_pepper_blue_block": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:bell_pepper_blue_crate": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "pipeorgans:haunted_whistle": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
+  "rusticdelight:bell_pepper_green_block": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
   },
-  "pipeorgans:haunted_whistle_extension": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "pipeorgans:hohlflute": {
+  "rusticdelight:bell_pepper_green_crate": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "pipeorgans:hohlflute_extension": {
+  "rusticdelight:bell_pepper_medley": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:bell_pepper_orange_block": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:bell_pepper_orange_crate": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "pipeorgans:keyboard_relay": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
+  "rusticdelight:bell_pepper_pink_block": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
   },
-  "pipeorgans:nasard": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
-  },
-  "pipeorgans:nasard_extension": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
-  },
-  "pipeorgans:piccolo": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "pipeorgans:piccolo_extension": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "pipeorgans:posaune": {
+  "rusticdelight:bell_pepper_pink_crate": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "pipeorgans:posaune_extension": {
+  "rusticdelight:bell_pepper_purple_block": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:bell_pepper_purple_crate": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "pipeorgans:prestant": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "pipeorgans:prestant_extension": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "pipeorgans:rohrflote": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "pipeorgans:rohrflote_extension": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "pipeorgans:roll_puncher": {
-    "maxWaterDepth": 25,
+  "rusticdelight:bell_pepper_red_block": {
+    "maxWaterDepth": 10,
     "implosionChance": 0.85
   },
-  "pipeorgans:subbass": {
+  "rusticdelight:bell_pepper_red_crate": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "pipeorgans:subbass_extension": {
+  "rusticdelight:bell_pepper_seeds_bag": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:bell_pepper_white_block": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:bell_pepper_white_crate": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "pipeorgans:tracker_bar": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
+  "rusticdelight:bell_pepper_yellow_block": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
   },
-  "pipeorgans:trompette": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "pipeorgans:trompette_extension": {
-    "maxWaterDepth": 161,
-    "implosionChance": 0.05
-  },
-  "pipeorgans:viola": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
-  },
-  "pipeorgans:viola_extension": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
-  },
-  "pipeorgans:vox_celeste": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
-  },
-  "pipeorgans:vox_celeste_extension": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
-  },
-  "pipeorgans:vox_humana": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
-  },
-  "pipeorgans:vox_humana_extension": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
-  },
-  "pipeorgans:windchest": {
+  "rusticdelight:bell_pepper_yellow_crate": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
   },
-  "pipeorgans:windchest_master": {
+  "rusticdelight:bell_peppers": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:calamari_crate": {
     "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:cherry_blossom_cheesecake": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:cherry_blossom_pancakes": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:chocolate_pancakes": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:coffee": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:coffee_beans_bag": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:coffee_cheesecake": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:coffee_pancakes": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:cotton": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:cotton_boll_crate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:cotton_seeds_bag": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:dark_bell_pepper_medley": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:dark_bell_pepper_seeds_bag": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:dark_bell_peppers": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:honey_pancakes": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:pale_bell_pepper_medley": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:pale_bell_pepper_seeds_bag": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:pale_bell_peppers": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:pancakes": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:potted_wild_bell_peppers": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:potted_wild_coffee": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:potted_wild_cotton": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:potted_wild_dark_bell_peppers": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:potted_wild_pale_bell_peppers": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:pumpkin_pancakes": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:rice_roll_royale": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:roasted_coffee_beans_bag": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:syrup_cheesecake": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:vegetable_pancakes": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:wild_bell_peppers": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:wild_coffee": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:wild_cotton": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:wild_dark_bell_peppers": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rusticdelight:wild_pale_bell_peppers": {
+    "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "sereneseasons:season_sensor": {

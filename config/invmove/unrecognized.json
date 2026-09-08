@@ -38,10 +38,17 @@
     "com.finchy.pipeorgans.content.midi.keyboardRelay.KeyboardRelayScreen": true,
     "dan200.computercraft.client.gui.TurtleScreen": true,
     "dan200.computercraft.client.gui.ComputerScreen": true,
-    "com.codinglitch.simpleradio.client.core.registry.screens.RadiosmitherScreen": true
+    "com.codinglitch.simpleradio.client.core.registry.screens.RadiosmitherScreen": true,
+    "com.tiviacz.travelersbackpack.client.screens.BackpackSettingsScreen": true,
+    "ru.dimaskama.webcam.client.screen.WebcamScreen": true,
+    "ru.dimaskama.webcam.client.screen.PlayersWebcamsScreen": true,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true,
+    "com.jesz.createdieselgenerators.content.entity_filter.EntityFilterScreen": true
   },
   "hideBackground": {
     "dev.simulated_team.simulated.content.blocks.nameplate.NameplateScreen": true,
-    "mezz.jei.gui.recipes.RecipesGui": true
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "ru.dimaskama.webcam.client.screen.WebcamScreen": true,
+    "ru.dimaskama.webcam.client.screen.PlayersWebcamsScreen": true
   }
 }

@@ -1,5 +1,6 @@
 [
   {"version":1},
+  {"ingredient":{"id":"minecraft:waxed_exposed_cut_copper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"simpleradio:spuddie_talkie"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"simpleradio:transceiver"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:note_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},

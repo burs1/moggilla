@@ -1,9 +1,9 @@
 {
   "configVersion": 3,
-  "blurContainers": true,
-  "blurBooks": true,
-  "blurSigns": true,
-  "blurCommandBlocks": true,
+  "blurContainers": false,
+  "blurBooks": false,
+  "blurSigns": false,
+  "blurCommandBlocks": false,
   "blurDeathScreen": false,
   "blurTitleScreen": false,
   "darkenTitleScreen": false,
