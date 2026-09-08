@@ -1141,14 +1141,6 @@ file = "config/talkingheads.json5"
 hash = "d4d9d1a77fb5041c07491e3b8daf276fd22d396bad653db5163705edc6aaf2f4"
 
 [[files]]
-file = "config/tectonic.json"
-hash = "88ac9fd71410c3ba66e5a775a4d38ebd3fec819184996f3d6c3091188532adb1"
-
-[[files]]
-file = "config/terrain_slabs.json"
-hash = "91683595865557b8abfae1d8d7f957f50d9af49a577ef9cb7cb691c505a3754c"
-
-[[files]]
 file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
 hash = "7c70e7df82d014a87dcb2defcf45d9654a22362283c7efe1f81f3b3c04290709"
 
@@ -1300,6 +1292,11 @@ hash = "1b8eb6843f324324f30e7d135e25ab89939e93ddd91421282fb6f0f358ec50c1"
 metafile = true
 
 [[files]]
+file = "mods/better-modlist.pw.toml"
+hash = "ad0b8b0b633c31c1208c6baebc12ef2b67a41910a2e356d96b537fdbef909f82"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "cc2e6dda94a7a6f5487843cafe569d8044bf9482cbf03f062cf4595f1fb05281"
 metafile = true
@@ -1405,16 +1402,6 @@ hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
 
 [[files]]
-file = "mods/create-deep-seas-lava-fix.pw.toml"
-hash = "cdee1d0e7cdd515fd5f9171ab4f553a127850d5a584685d125495712db0e94e9"
-metafile = true
-
-[[files]]
-file = "mods/create-deep-seas.pw.toml"
-hash = "404db1758af44123b89cbf6e2ffdf4a5cf11b708be665f48657ff40735723152"
-metafile = true
-
-[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "456f66abd180b3f5765473cda5e8acb1a6ea8b15b7ee34442be9a7af414cfc63"
 metafile = true
@@ -1462,11 +1449,6 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
 hash = "5e56de4d2f91b883ce8592d324a6e3facacdfe50b880efd0caf8acc242f97bc7"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "22497f91d2367649b647f5ec02ce264539cd7fac102893d8515233925d6d406e"
 metafile = true
 
 [[files]]
@@ -1527,6 +1509,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fe4578b7f4a8c09f5e672a139c5fe89262e6c4728d82c5a22515120c83e3eb08"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "c490f7b680875f034af39a1556911d6edb1dcdd76a114ee6a4eca0f158cd92b2"
 metafile = true
 
 [[files]]
@@ -1770,6 +1757,11 @@ hash = "90b9919bbe87b80bb3274228d6543adb328a51753b0741f6ea4d98441f268983"
 metafile = true
 
 [[files]]
+file = "mods/roxy.pw.toml"
+hash = "0b76491309faa010994b054d389b3bf4d8f5df1aed069eaabe2652b7d94cecc5"
+metafile = true
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "13aeffc2aa93f4cc7526ac98ec4a7b4b91bc041704da03b87157558cca8ce463"
 metafile = true
@@ -1831,7 +1823,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "1b7d3707eb267f33dacbeb70b340b15eac00ef047989f67e821c241af85eb272"
+hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
@@ -1855,11 +1847,6 @@ hash = "03c32079e39cf21efb8d0b5f0d24f004b9221c1455d460fdcb621821f7285239"
 metafile = true
 
 [[files]]
-file = "mods/ssrd.pw.toml"
-hash = "67eabcc7dbc9c93130dc3f6d689808ee97d4a92fb4ee27c7675c12cc87a2131e"
-metafile = true
-
-[[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "96bdd9ca87fb767280e37762fd0afcee47f3c7df0ffcdf06d767edf6ea84ea6a"
 metafile = true
@@ -1871,12 +1858,12 @@ metafile = true
 
 [[files]]
 file = "mods/terralith-restoned.pw.toml"
-hash = "abde622f6570b0b4c5ba50c6f329c174d3f8f82de3cd29523c0064b0f9d9987c"
+hash = "d8d5d95692bd87bb856f6ccc2d6ebe72dc61e51dd00531fe02f394e85240bd33"
 metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "3f4585a08b3c6e5b703ed002e11494c6d17938f697a2b498f6da31592e7eb350"
+hash = "7d5b941965e4c69f25046d532ac6a935fdd1b811c0a115b2d87536e7d98d6c85"
 metafile = true
 
 [[files]]
@@ -1897,6 +1884,20 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
+metafile = true
+
+[[files]]
+file = "mods/voxy-0.2.16-beta+1.21.11.jar"
+hash = "7f8226cf64a4f5dc064e1075965714b718ac5f42fb28f826135a37c64e66e10b"
+
+[[files]]
+file = "mods/voxy-server-side.pw.toml"
+hash = "0445196ba36e6cf6a9d491e69673cc8ff1a5692bfd7d8264c1b562fdb8c9933c"
+metafile = true
+
+[[files]]
+file = "mods/voxy-worldgen.pw.toml"
+hash = "1d597929bb8daed68ef5d3d098d6b3a8e3f8cc47940dc13647c79c449dfa79e6"
 metafile = true
 
 [[files]]
