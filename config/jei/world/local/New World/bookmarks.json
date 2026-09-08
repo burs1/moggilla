@@ -1,8 +1,0 @@
-[
-  {"version":2},
-  {"ingredient":{"id":"cgs:revolver","components":"{\"ntgl:ammo_count\":6}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"simpleradio:speaker_module"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"simpleradio:spuddie_talkie"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"createdieselgenerators:asphalt_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"createdieselgenerators:engine_silencer"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
