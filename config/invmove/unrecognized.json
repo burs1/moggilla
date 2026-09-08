@@ -1,0 +1,10 @@
+{
+  "allowMovement": {
+    "ru.dimaskama.webcam.client.screen.WebcamScreen": true,
+    "de.maxhenkel.voicechat.gui.onboarding.IntroductionOnboardingScreen": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true
+  },
+  "hideBackground": {
+    "ru.dimaskama.webcam.client.screen.WebcamScreen": true
+  }
+}
