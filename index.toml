@@ -610,7 +610,7 @@ hash = "5feea5d5ecc472bd53d75a40a9101d5c8c45e147c003cd9a237d96666cf8c556"
 
 [[files]]
 file = "config/webcam/server.json"
-hash = "7da8b793b0bc7828b95c5148a98ad8179588e538545aeb017b69b51dbf47375a"
+hash = "676f0851d216e3ff986ef6cdeeb0555ad5b9f384b0795da85ec2cc40174676a5"
 
 [[files]]
 file = "config/windy-config.json"
@@ -801,6 +801,11 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
 hash = "5e56de4d2f91b883ce8592d324a6e3facacdfe50b880efd0caf8acc242f97bc7"
+metafile = true
+
+[[files]]
+file = "mods/directauth.pw.toml"
+hash = "51b88054bb0a7bb629ce2df86873f551fbe95810ab1c4100f2df368a7d8c108b"
 metafile = true
 
 [[files]]

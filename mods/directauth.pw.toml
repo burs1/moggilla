@@ -1,0 +1,13 @@
+name = "DirectAuth"
+filename = "directauth-1.2.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "e37837052c9616dd5d93760ef28126a3b4577d19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8339679
+project-id = 1401506
