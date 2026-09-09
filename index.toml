@@ -834,6 +834,11 @@ hash = "35fb7fa4acddc3731f91265b2ab5552dcbc716cc841421000654a8886b6c5212"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "e451f77f4af19a516d9d77a3b84a99f05e028cde6fc4c71dd31a2467e5154186"
+metafile = true
+
+[[files]]
 file = "mods/explosive-enhancement-forge.pw.toml"
 hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
 metafile = true
@@ -940,7 +945,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
+hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
 metafile = true
 
 [[files]]
@@ -1279,5 +1284,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "cf27ca3dbdb4fc7c9b8f7ee6bf2c4b333e2edc3015aed472057f2038853fedfb"
+hash = "1ea0f1604ce00b5a40b9ff4b679a5ec69dcc72bef9a75225a3698d10edd514b1"
 metafile = true
