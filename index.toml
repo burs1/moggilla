@@ -1124,6 +1124,11 @@ hash = "4bbb4ff006bf5f27179a47683b2710c92cb3314a1520e95bcd1808a6ea94ec4a"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "840bb114b8c686327e6d53856e189906e396f4b74d3fe02d2103c9190dd76a37"
+metafile = true
+
+[[files]]
 file = "mods/smooth-gui.pw.toml"
 hash = "71ac50ad92af76b33340c34db4be12ef72859207150772f2cb650fde7577590d"
 metafile = true
