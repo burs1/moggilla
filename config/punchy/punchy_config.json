@@ -35,8 +35,12 @@
   "enableBlurGlowAtDark": false,
   "firstPersonModelHideEnabled": true,
   "firstPersonModelHidePitch": 60.0,
-  "itemBlacklist": [],
-  "blacklistApplyDualHanded": {},
+  "itemBlacklist": [
+    "cgs:launcher"
+  ],
+  "blacklistApplyDualHanded": {
+    "cgs:launcher": false
+  },
   "animationPackSelections": {},
   "animationPackTypeSelections": {},
   "mixSpecificForceOverride": {}

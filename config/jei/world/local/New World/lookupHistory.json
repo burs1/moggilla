@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"simulated:plunger_launcher"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cgs:launcher"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cgs:launcher","components":"{\"ntgl:ammo_count\":4}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cgs:launcher_auto"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cgs:gatling_drum"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:lime_valve_handle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:brass_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:zinc_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:sweet_roll"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:crushed_raw_copper"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

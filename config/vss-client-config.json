@@ -3,7 +3,7 @@
   "receiveServerLods": true,
   "useWorldSubBuckets": true,
   "cacheAddressAliases": [],
-  "lodDistanceChunks": 256,
+  "lodDistanceChunks": 512,
   "unknownBlockFallback": "minecraft:stone",
   "crossVersionBlockFallbacks": {},
   "enableV16ServerCompat": true,

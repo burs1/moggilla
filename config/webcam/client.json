@@ -12,5 +12,5 @@
   "webcam_resolution": "640x480",
   "webcam_fps": 24,
   "show_webcams": true,
-  "webcam_enabled": true
+  "webcam_enabled": false
 }
