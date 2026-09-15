@@ -1,0 +1,13 @@
+name = "[TaCZ] ViewModel Tuner"
+filename = "viewmodel_tuner-neoforge-1.21.1-1.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2Esur87n/versions/lsKAF8W1/viewmodel_tuner-neoforge-1.21.1-1.0.5.jar"
+hash-format = "sha512"
+hash = "294e14a369f09b915ecfe184b6f4f6f52c745e8af0033b6f9b51882fd659e99a9ea5f5f030129e823da61260d53195f73b671809f8205fcfc7e5a42a1adabe77"
+
+[update]
+[update.modrinth]
+mod-id = "2Esur87n"
+version = "lsKAF8W1"

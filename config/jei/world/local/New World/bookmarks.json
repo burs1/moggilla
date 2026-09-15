@@ -17,5 +17,14 @@
   {"ingredient":{"id":"minecraft:diamond_leggings"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:bow"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:tipped_arrow","components":"{\"minecraft:potion_contents\":{potion:\"minecraft:fire_resistance\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:tipped_arrow","components":"{\"minecraft:potion_contents\":{potion:\"minecraft:long_fire_resistance\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:tipped_arrow","components":"{\"minecraft:potion_contents\":{potion:\"minecraft:long_fire_resistance\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tacz:modern_kinetic_gun","components":"{\"minecraft:custom_data\":{GunCurrentAmmoCount:30,GunFireMode:\"AUTO\",GunId:\"create_armorer:smg_auto_crank\",HasBulletInBarrel:1b}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stripped_oak_wood"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:tadpole_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:water_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tacz:modern_kinetic_gun","components":"{\"minecraft:custom_data\":{AttachmentEXTENDED_MAG:{components:{\"minecraft:custom_data\":{AttachmentId:\"tacz:ammo_mod_he\"}},count:1,id:\"tacz:attachment\"},GunCurrentAmmoCount:9,GunFireMode:\"SEMI\",GunId:\"tacz:timeless50\",HasBulletInBarrel:1b}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tacz:attachment","components":"{\"minecraft:custom_data\":{AttachmentId:\"tacz:sight_pk06_pistol\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:dark_oak_boat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:writable_book"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"beachparty:tall_palm_torch"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

@@ -38,7 +38,10 @@
     "com.simibubi.create.content.equipment.toolbox.ToolboxScreen": true,
     "com.simibubi.create.content.schematics.cannon.SchematicannonScreen": true,
     "net.satisfy.vinery.client.gui.FermentationBarrelGui": true,
-    "folk.sisby.antique_atlas.gui.AtlasScreen": true
+    "folk.sisby.antique_atlas.gui.AtlasScreen": true,
+    "ru.waxinay.client.screen.ViewModelConfigScreen": true,
+    "com.tacz.guns.client.gui.GunRefitScreen": true,
+    "net.satisfy.beachparty.client.gui.MiniFridgeGui": true
   },
   "hideBackground": {
     "ru.dimaskama.webcam.client.screen.WebcamScreen": true,
@@ -46,6 +49,8 @@
     "mezz.jei.gui.recipes.RecipesGui": true,
     "ru.dimaskama.webcam.client.screen.PlayersWebcamsScreen": true,
     "dev.simulated_team.simulated.content.blocks.nameplate.NameplateScreen": true,
-    "dev.nonamecrackers2.simpleclouds.client.gui.CloudPreviewerScreen": true
+    "dev.nonamecrackers2.simpleclouds.client.gui.CloudPreviewerScreen": true,
+    "ru.waxinay.client.screen.ViewModelConfigScreen": true,
+    "com.tacz.guns.client.gui.GunRefitScreen": true
   }
 }

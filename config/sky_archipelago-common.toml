@@ -91,7 +91,7 @@ clusterSpacingMode = "CONSISTENT"
 #Dynamic spacing mode: minimum cluster spacing in blocks.
 # Default: 96
 # Range: 32 ~ 2000
-minClusterSpacing = 16
+minClusterSpacing = 32
 #Dynamic spacing mode: maximum cluster spacing in blocks.
 # Default: 96
 # Range: 32 ~ 2000
