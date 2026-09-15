@@ -327,11 +327,6 @@ hash = "5279e3ff71cb614a1ab093dc3559740b42daa030d80a8cd298f7f4e2ad1df8ce"
 metafile = true
 
 [[files]]
-file = "mods/apocolypseaddon.pw.toml"
-hash = "a2e1e534314e902ec9219cdded16f2895a00ee41b506722b7f74f0aff2235d21"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "60576a38522dd1c02830d1e769d7c16ccc89271c3b8fa3b18061d5d34fb2f7d8"
 metafile = true
