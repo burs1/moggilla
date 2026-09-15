@@ -1,6 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"minecraft:beehive"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:deployer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:electron_tube"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
