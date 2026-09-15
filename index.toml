@@ -327,11 +327,6 @@ hash = "5279e3ff71cb614a1ab093dc3559740b42daa030d80a8cd298f7f4e2ad1df8ce"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "72f9cf7ef1412b9384467782dd5444ec8adbd03b9f532d1238e5a166ffb25237"
-metafile = true
-
-[[files]]
 file = "mods/apocolypseaddon.pw.toml"
 hash = "a2e1e534314e902ec9219cdded16f2895a00ee41b506722b7f74f0aff2235d21"
 metafile = true
@@ -438,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
+hash = "127ef479277e6156f1f53c6c11955076d64d38a947efb1745efe3285eb447b31"
 metafile = true
 
 [[files]]
@@ -1007,11 +1002,6 @@ metafile = true
 [[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "96bdd9ca87fb767280e37762fd0afcee47f3c7df0ffcdf06d767edf6ea84ea6a"
-metafile = true
-
-[[files]]
-file = "mods/surveyor.pw.toml"
-hash = "13848a9eb3c5fd091b52f78cfae4ace2c3cd0cb32a76d6f61c12435f47d82ed1"
 metafile = true
 
 [[files]]
