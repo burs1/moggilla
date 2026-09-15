@@ -209,6 +209,10 @@ file = "config/ritchiesprojectilelib-server.toml"
 hash = "0118936ae0375d6c318582b47e0cf631540ba683d4a5db25a3ca7f090eda54c1"
 
 [[files]]
+file = "config/sky_archipelago-common.toml"
+hash = "cac5f0addfe7018bc644eb6df2cb244cfce705a7ab24485d891b570276a79c2d"
+
+[[files]]
 file = "config/sky_archipelago/presets/moggilan.json"
 hash = "9da4fc4147902991aeb4ed54ef056dc2b69c377fa7ea1f0ca5656372767d2639"
 
