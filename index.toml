@@ -861,11 +861,6 @@ hash = "89bd0f15795c70a1e06074e22bc5d80969abd48e1f540c79e3023cf8be51bef9"
 metafile = true
 
 [[files]]
-file = "mods/ragdoll-revive.pw.toml"
-hash = "c4ef95f950f0e1d14cff4e466f793349fa39cd95e791e69ad95824e2955559e9"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "efbb89b70453a56c142f5e4c9b3ec310ce0073bca878982248e2669137edb20c"
 metafile = true
@@ -903,6 +898,11 @@ metafile = true
 [[files]]
 file = "mods/sable-ragdoll-corpse.pw.toml"
 hash = "e48a9f24f9c0e937b4aa46bcfec7e8ceaa40a4f29f4ea1c659c6d28575560320"
+metafile = true
+
+[[files]]
+file = "mods/sable-ragdoll-revival.pw.toml"
+hash = "4662bb5d15b8aafe6dd49b4211959508d63c0e8b570635f048f1c02db06b3475"
 metafile = true
 
 [[files]]
