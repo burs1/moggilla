@@ -1044,11 +1044,6 @@ hash = "96bdd9ca87fb767280e37762fd0afcee47f3c7df0ffcdf06d767edf6ea84ea6a"
 metafile = true
 
 [[files]]
-file = "mods/surveyor.pw.toml"
-hash = "13848a9eb3c5fd091b52f78cfae4ace2c3cd0cb32a76d6f61c12435f47d82ed1"
-metafile = true
-
-[[files]]
 file = "mods/tacz-1.21.1.pw.toml"
 hash = "64a5ad1bbb2ca9e94053e4e6b7f0e5d762c2c7bea7674c168a6819e5782a99d6"
 metafile = true
