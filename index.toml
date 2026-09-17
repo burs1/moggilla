@@ -910,11 +910,6 @@ hash = "90b9919bbe87b80bb3274228d6543adb328a51753b0741f6ea4d98441f268983"
 metafile = true
 
 [[files]]
-file = "mods/respawn-delay.pw.toml"
-hash = "13ae519e7fe5237148015b76f0023f096583a692899d11e4e97b23c7dda9de64"
-metafile = true
-
-[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "87708c5cf041f2c7eede5dc1a5ee0dd517a13c0c7e8c40c359669a5ffabef7db"
 metafile = true
