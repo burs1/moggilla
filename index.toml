@@ -326,15 +326,6 @@ hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
 
 [[files]]
-file = "mods/Axiom-6.0.5-for-MC1.21.1.jar"
-hash = "fd443dd795715c0137947a8191cea2a729c3e500619b0c4d91047be870a9d19b"
-
-[[files]]
-file = "mods/aa4-sky-islands.pw.toml"
-hash = "28827f6e911c1dcf40e4c8d3c559626958d1972e09a07ad5d0ab62066ea8f3de"
-metafile = true
-
-[[files]]
 file = "mods/aero_cam_sync.pw.toml"
 hash = "05d7fc1975485e44ed23c67f33d4f691523da2bacef29464f04433154929e6f8"
 metafile = true
@@ -342,16 +333,6 @@ metafile = true
 [[files]]
 file = "mods/aeronautics-structures.pw.toml"
 hash = "5279e3ff71cb614a1ab093dc3559740b42daa030d80a8cd298f7f4e2ad1df8ce"
-metafile = true
-
-[[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "72f9cf7ef1412b9384467782dd5444ec8adbd03b9f532d1238e5a166ffb25237"
-metafile = true
-
-[[files]]
-file = "mods/antique-transport.pw.toml"
-hash = "891be2897e122a50bd68da39b9bd866812edc4a5d650994e154a90afd132fb63"
 metafile = true
 
 [[files]]
@@ -451,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
+hash = "127ef479277e6156f1f53c6c11955076d64d38a947efb1745efe3285eb447b31"
 metafile = true
 
 [[files]]
