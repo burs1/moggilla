@@ -314,7 +314,7 @@ hash = "5feea5d5ecc472bd53d75a40a9101d5c8c45e147c003cd9a237d96666cf8c556"
 
 [[files]]
 file = "config/webcam/server.json"
-hash = "676f0851d216e3ff986ef6cdeeb0555ad5b9f384b0795da85ec2cc40174676a5"
+hash = "4f1962a5e4e5778f9d9c4a41f2a9217e4befdf9bf591ddff6cba2be436e83ca0"
 
 [[files]]
 file = "config/yacl.json5"
