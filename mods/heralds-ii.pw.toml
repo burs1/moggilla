@@ -1,0 +1,13 @@
+name = "Heralds II"
+filename = "heralds_luna-2.a5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9pJWWmNb/versions/zE1oZG3Y/heralds_luna-2.a5-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "1255068ef09863f8ad1940df853e6df90479c183bf4bffcf65fa9473514529885a9ce773345eef5c826c21df011595812f766919adeb2f727d713529aef4af7c"
+
+[update]
+[update.modrinth]
+mod-id = "9pJWWmNb"
+version = "zE1oZG3Y"

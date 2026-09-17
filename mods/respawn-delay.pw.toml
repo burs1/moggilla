@@ -1,0 +1,13 @@
+name = "Respawn Delay"
+filename = "respawndelay-1.21.1-5.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/5Yxg7cHy/versions/gptaZMhp/respawndelay-1.21.1-5.0.jar"
+hash-format = "sha512"
+hash = "ef44126f0a8faefb418ca31c458f52bd0d07ed3feba8ec6dc2ee88d0b95ff3d2988e5147f61527862d6715291d2b94810280571b2064f5cff85e0dbe88988642"
+
+[update]
+[update.modrinth]
+mod-id = "5Yxg7cHy"
+version = "gptaZMhp"
