@@ -1,6 +1,6 @@
 {
   "hide_nicknames": true,
-  "display_self_webcam": false,
+  "display_self_webcam": true,
   "synced": {
     "image_dimension": 360,
     "mtu": 1100,
@@ -15,7 +15,7 @@
   "keep_alive_period": 1000,
   "permission_check_period": 60,
   "max_display_distance": 100.0,
-  "display_on_face": true,
+  "display_on_face": false,
   "port": 25454,
   "bind_address": "",
   "host": ""

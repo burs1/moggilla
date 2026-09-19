@@ -7,10 +7,10 @@
     "icon_scale": 1.0
   },
   "show_icons": true,
-  "max_devices": 4,
+  "max_devices": 5,
   "selected_device": 0,
-  "webcam_resolution": "640x480",
-  "webcam_fps": 24,
+  "webcam_resolution": "1280x720",
+  "webcam_fps": 30,
   "show_webcams": true,
-  "webcam_enabled": false
+  "webcam_enabled": true
 }

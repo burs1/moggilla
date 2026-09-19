@@ -9,7 +9,7 @@ minIslandRadius = 48
 #Maximum horizontal island radius in blocks.
 # Default: 75
 # Range: 8 ~ 500
-maxIslandRadius = 128
+maxIslandRadius = 256
 #How island radius sizes are selected. RANDOM preserves global min/max behavior, SPECIFIC uses small/medium/large bands.
 #Allowed Values: RANDOM, SPECIFIC
 islandSizeMode = "RANDOM"
