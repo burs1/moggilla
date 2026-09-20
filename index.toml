@@ -9,6 +9,14 @@ file = ".gitlab-ci.yml"
 hash = "1f47e1a64196331b114a07a0e7c0340af40c05ce20e60f9740c2232492039884"
 
 [[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "edd21dcd04dff3938e9b468bec8f131626374e553f5b923fb0cce83b9a64f53f"
+
+[[files]]
 file = "config/punchy/punchy_config.json"
 hash = "ee10770f72bbb561868b54e9fb286607142a27201f731199ac80ef503f083c77"
 
