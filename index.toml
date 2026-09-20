@@ -725,6 +725,11 @@ hash = "a9afe82b3d1b4975dd9f8b3272898450aeb29365678b3779059977301f88c101"
 metafile = true
 
 [[files]]
+file = "mods/tropicraft.pw.toml"
+hash = "a9cca269c7d66cbe6d458c127c49abb368dce191d00e4ddca90d043e092cf4ff"
+metafile = true
+
+[[files]]
 file = "mods/viewmodel-tuner.pw.toml"
 hash = "97b75784e2be90b905d11eee383e714e38557c33a461595722d4ff8af1206708"
 metafile = true
