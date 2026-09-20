@@ -37,6 +37,10 @@ file = "config/sky_archipelago-common.toml"
 hash = "a317576fe00f82b75c8ad4e18cb1034ebf17334df72050a3f3b20e5f4842ce44"
 
 [[files]]
+file = "config/tacztweaks.json"
+hash = "9b0fff271b2fc50e77cb7051383cca35bb2343d5c097b946c121ad5674797a0e"
+
+[[files]]
 file = "config/talkingheads.json5"
 hash = "adb53d5f498b147204215f9d7f65f45ade3d5c037528ad8c80f3049f1f579a12"
 
