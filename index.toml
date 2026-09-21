@@ -200,6 +200,11 @@ hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "127ef479277e6156f1f53c6c11955076d64d38a947efb1745efe3285eb447b31"
 metafile = true
@@ -759,6 +764,11 @@ metafile = true
 [[files]]
 file = "mods/webcam-mod.pw.toml"
 hash = "bd7d0f75b1aa191a8161b16222733d9c0c7f9f6aa1856c8b9566ab9b29288710"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "7e6948368276f2c49d5bccf52cbf80930d0daca75b4dfbc5530479f1d3f95cf8"
 metafile = true
 
 [[files]]
