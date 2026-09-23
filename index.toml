@@ -9,6 +9,10 @@ file = ".gitlab-ci.yml"
 hash = "1f47e1a64196331b114a07a0e7c0340af40c05ce20e60f9740c2232492039884"
 
 [[files]]
+file = "config/betterf3.toml"
+hash = "054b2dc76a9e5c1c7a7588c617c94aa2b6ecd0cc994c9411c5ac3dd2a2be524f"
+
+[[files]]
 file = "config/hardcore_torches-common.toml"
 hash = "f639d839bdb8aa999c1e84d59d9d1120d499a80857920ea76c5f86fb00d6436a"
 
