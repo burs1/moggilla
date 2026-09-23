@@ -1,0 +1,13 @@
+name = "Map Void Fix"
+filename = "voidmapfix-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gRfCGjcA/versions/HifeWx6w/voidmapfix-1.0.0.jar"
+hash-format = "sha512"
+hash = "fdcb82935f9f714f8ff8b1a1a2be091d4fb4f363cccdacc12c5ff01c754274c5116738545ccb1ae24d7985096c595dd1592ec102409586f340220eb4fb7fa234"
+
+[update]
+[update.modrinth]
+mod-id = "gRfCGjcA"
+version = "HifeWx6w"

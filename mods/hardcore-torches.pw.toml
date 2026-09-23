@@ -1,0 +1,13 @@
+name = "Hardcore Torches"
+filename = "hardcore_torches-1.21.0-2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ru97clEJ/versions/nVvSqFGD/hardcore_torches-1.21.0-2.7.jar"
+hash-format = "sha512"
+hash = "23d59c597bb143b892e1cf27259107671d996475509f3d6017314a57f9b07df5fc6028118b056fcacedfcb0ef7432990723cb644e3c8b46dc2ba5d25a22404f4"
+
+[update]
+[update.modrinth]
+mod-id = "Ru97clEJ"
+version = "nVvSqFGD"

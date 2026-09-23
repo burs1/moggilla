@@ -1,13 +1,13 @@
 name = "Roxy"
-filename = "roxy-1.21.1-NeoForge-0.3.1.jar"
+filename = "roxy-1.21.1-NeoForge-0.3.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ap78bKTp/versions/PSrkc63y/roxy-1.21.1-NeoForge-0.3.1.jar"
+url = "https://cdn.modrinth.com/data/Ap78bKTp/versions/Tbny1Cq6/roxy-1.21.1-NeoForge-0.3.3.jar"
 hash-format = "sha512"
-hash = "2706120bdfb4805da1d399154ed3c987b06b282bc2ae1f88b351eb2b7840f51d31cc0c6490cfa6e435ee0408b12bad8303a5707d6716bd96951231607baaa762"
+hash = "9b4a487e9c0fe76eaee8c2e41833140cd84a02bc87fcf75672a09534c68f97cee52c7ea8496b0328a722d3c723a994c3884cd18c252077da34be647b23ee136d"
 
 [update]
 [update.modrinth]
 mod-id = "Ap78bKTp"
-version = "PSrkc63y"
+version = "Tbny1Cq6"
