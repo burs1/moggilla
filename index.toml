@@ -90,7 +90,7 @@ hash = "4bdbb4152299a4adfa6946ab6e547fe8abec11dfb6fc40aca72f91a3a8567d22"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "5f0b93c795763ec275514105755de0aa3cc97aebe92da88d52a04d8678f71e34"
+hash = "08b8719a9ebd786b9a17af088d4562573e7a16ed4ee9873bffd948c715d39107"
 
 [[files]]
 file = "config/voxy-config.json"
