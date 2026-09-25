@@ -271,6 +271,11 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/createbetterfps.pw.toml"
+hash = "b6a535a801939a78f255203f7b28319773becca20cc88348f8764f4078816300"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "08a334ae5565e122d26b819cba16ce784776a10fe100ab2b22de72a5a2bac653"
 metafile = true
@@ -894,6 +899,10 @@ metafile = true
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9 + EuphoriaPatches_1.10.0.txt"
 hash = "2fec31366aa3f3305d8d14d4bbf2355a5779acbb918b76a3f1ae2dc11abd9d02"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.9.3 + EuphoriaPatches_1.10.5.txt"
+hash = "4fa39cd32a74ab846db21e9ef20e1ebe1e0a94e9c0f0844900967bf68d418184"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
