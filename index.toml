@@ -892,6 +892,10 @@ hash = "c4c5801928c11881e71967a9f005ab8f4bdcf7a82a94973a6b96332bdba96110"
 metafile = true
 
 [[files]]
+file = "servers.dat"
+hash = "dc6d2f1b8febef451332a28c565d7c9cd301e280b0c05a7a1386f7ed2a2189b1"
+
+[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9 + EuphoriaPatches_1.10.0.txt"
 hash = "2fec31366aa3f3305d8d14d4bbf2355a5779acbb918b76a3f1ae2dc11abd9d02"
 

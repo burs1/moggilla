@@ -1,11 +1,11 @@
 name = "Moggilla"
-version = "4.7.1"
+version = "4.7.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d8ca59a07c583469351ab5587bee90feeb0f2cabdbc1e089291151e23cda612d"
+hash = "01c6fa45d92839ab4ea0fa5bc5dd830571399b29319b0b8ef6ee9a7ec676c7d0"
 
 [versions]
 minecraft = "1.21.1"
