@@ -251,11 +251,6 @@ hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
 metafile = true
 
 [[files]]
-file = "mods/create-hostile-skies.pw.toml"
-hash = "0bf47002149084f88c7f135ddcb88fc43958540f0dc8ea783c5d56876f270caa"
-metafile = true
-
-[[files]]
 file = "mods/create-immersive-tacz-integration.pw.toml"
 hash = "7910a6d60620acce95fcce5d071d382b4b4fe5c1e2183f962620228771e378bc"
 metafile = true
