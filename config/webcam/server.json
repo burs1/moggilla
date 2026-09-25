@@ -16,7 +16,7 @@
   "permission_check_period": 60,
   "max_display_distance": 100.0,
   "display_on_face": false,
-  "port": 25454,
+  "port": 26464,
   "bind_address": "",
   "host": ""
 }
