@@ -33,8 +33,16 @@ file = "config/map_atlases-common.toml"
 hash = "78a5524a1257fa943961905d466cee388345b12ea57f458a8deb19203b30ee5c"
 
 [[files]]
+file = "config/punchy/merged_animation_selection.json"
+hash = "77d9559a19f69d73f952177d2047760a9e55be219fee015658effaaa8783eb46"
+
+[[files]]
 file = "config/punchy/punchy_config.json"
-hash = "ee10770f72bbb561868b54e9fb286607142a27201f731199ac80ef503f083c77"
+hash = "f5d7ed7d19b360d948027b4cb16a0f2379eb2dcae5cb35ac78382e2d88727680"
+
+[[files]]
+file = "config/punchy/triggerable-keybindings.json"
+hash = "816b7e4cb4d4bb13c62e8ccece74c02f2d01e4fbf04df5995b3a65ddb49cabff"
 
 [[files]]
 file = "config/sable_beyond/common.json"
@@ -208,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
