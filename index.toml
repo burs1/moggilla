@@ -45,6 +45,10 @@ file = "config/punchy/triggerable-keybindings.json"
 hash = "816b7e4cb4d4bb13c62e8ccece74c02f2d01e4fbf04df5995b3a65ddb49cabff"
 
 [[files]]
+file = "config/ragdoll_reactions-server.toml"
+hash = "8ee97da16d3e9d058c0c93ec442edb5c468bc944d29c5eeee7c428042dd54070"
+
+[[files]]
 file = "config/sable_beyond/common.json"
 hash = "3e8770e5208eda7850b33c194d074777b89cb4f3f796efd42aeacdb23d4fb84b"
 
