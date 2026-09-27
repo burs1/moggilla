@@ -378,11 +378,6 @@ hash = "e2ec4d2dbf88e45a09198b9a44ca0553c1e458701e6757997d0d5055b39bb7be"
 metafile = true
 
 [[files]]
-file = "mods/hardcore-torches.pw.toml"
-hash = "580395c5f609e363bc48d340d6307103c61758e709079a1594f96b0448ac7777"
-metafile = true
-
-[[files]]
 file = "mods/heralds-ii.pw.toml"
 hash = "5d84e0fcafe8affa4a167c29a6b8e77bdf6a697faed6fa9d53f67d0351be30e3"
 metafile = true
@@ -605,11 +600,6 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "2fabe97e86be7a64b8c4fd9d614562133d7b2ba339e6d3b1a3aad0e6b0b6975c"
-metafile = true
-
-[[files]]
-file = "mods/power-grid.pw.toml"
-hash = "22cf5579fbc67af2ac84358af3c390c6235fabd6cd6cc3828021349b588f4bdb"
 metafile = true
 
 [[files]]
